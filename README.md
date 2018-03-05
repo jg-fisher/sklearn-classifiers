@@ -1,8 +1,10 @@
 # naive-bayes-diabetes
 Implementation of Naive Bayes, SVM, and a Decision Tree using sklearn and numpy to classify diabetes risk.
 
-Naive Bayes: 76.7% accuracy
+**Accuracy of Models**
 
-SVM: 80.5% accuracy
+SVM: 80.5% 
 
-Decision Tree: 70.8% accuracy
+Naive Bayes: 76.7% 
+
+Decision Tree: 70.8% 
