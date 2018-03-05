@@ -15,7 +15,7 @@ clf.fit(x_train, y_train.flatten())
 
 predictions = clf.predict(x_test)
 
-print(accuracy_score(predictions, y_test))
+print('Accuracy Score: ', accuracy_score(predictions, y_test))
 
     
 
