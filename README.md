@@ -1,4 +1,4 @@
-# naive-bayes-diabetes
+# sklearn-classifiers-diabetes
 Implementation of Naive Bayes, SVM, and a Decision Tree using sklearn and numpy to classify diabetes risk.
 
 **Accuracy of Models**
